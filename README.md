@@ -78,6 +78,4 @@ public static int SPLASH_SCREEN_TIME = 3000;
 
 <img src="app_images/Splash Screen Code.png" width="1000" /><br>
 
-<img src="app_images/Splash Screen App1.png" width="300" /><br>
-
-<img src="app_images/Splash Screen App2.png" width="300" /><br>
+<img src="app_images/Splash Screen App1.png" width="300" /><img src="app_images/Splash Screen App2.png" width="300" /><br>
