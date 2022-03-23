@@ -28,7 +28,7 @@ App With Splash Screen
 ```
 
 
-## Method 1 (Using Handler)
+## Method 2 (Using Handler)
 
 #### SplashScreen.java
 ```
