@@ -1,6 +1,8 @@
 # Android_Splash_Screen
 App With Splash Screen
 
+This topic is a part of [My Complete Andorid Course](https://github.com/ananddasani/Android_Apps)
+
 # Code
 
 ## Method 1 (Using Thread)
@@ -75,7 +77,7 @@ public static int SPLASH_SCREEN_TIME = 3000;
 ```
 
 # App Highlight
+![Splash Screen App1](https://user-images.githubusercontent.com/74413402/192093337-f8695e01-6e79-48e1-8880-525ac578b6ee.png)
+![Splash Screen App2](https://user-images.githubusercontent.com/74413402/192093341-030a97ac-539b-4bd5-9d5a-d39ac6f7a6ab.png)
+![Splash Screen Code](https://user-images.githubusercontent.com/74413402/192093343-51128db9-5ec0-430b-8046-f443250f40bf.png)
 
-<img src="app_images/Splash Screen Code.png" width="1000" /><br>
-
-<img src="app_images/Splash Screen App1.png" width="300" />  <img src="app_images/Splash Screen App2.png" width="300" /><br>
